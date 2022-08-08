@@ -1,2 +1,2 @@
-### NaiveSpatialHash
+# NaiveSpatialHash
 ## Simple Grid2D Hash
